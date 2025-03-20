@@ -2,7 +2,7 @@
 This project analyzes sales performance using an interactive dashboard with looker studio . It includes data cleaning, categorization, and visualization of key metrics such as sales by category, product, customer, and region. Insights on top-selling items, customer contributions, and sales trends help optimize business strategies.
 
 ## Dataset used
--  <a href=https://github.com/Melanie221/Frichick-Sales-Dashboard/blob/main/dataset%20sales%20frichick.xlsx">Dataset</a>
+-  <a href="https://github.com/Melanie221/Frichick-Sales-Dashboard/blob/main/dataset%20sales%20frichick.xlsx">Dataset</a>
 
 ## Key Questions & KPIs for Analysis
 -	Total Sales Performance – What is the total sales compared to the target?
@@ -27,7 +27,9 @@ This project analyzes sales performance using an interactive dashboard with look
 - Apply Filters & Controls – Add dropdown selectors for period, category, product, and customer to enable interactive analysis.
 - Format & Optimize Dashboard – Adjust colors, fonts, and layout for clarity and professional presentation.
 - Publish & Share – Finalize the dashboard, generate a shareable link, and ensure access for stakeholders.
-  
+
+- - Dashboard Interaction  <a href="https://github.com/Melanie221/Frichick-Sales-Dashboard/blob/main/Screenshot_20250319_104138.png">View Dashboard</a>
+
 ## Project Insights
 - Sales Performance: Total sales reached 520,627,500, with a target of 800,000,000.
 - Top-Selling Category: Beverages contributed the most (43.48% of total sales).
@@ -38,3 +40,7 @@ This project analyzes sales performance using an interactive dashboard with look
 
 ## Conclusion
 The sales dashboard provides valuable insights into sales performance, customer contributions, and product trends. By understanding these patterns, businesses can optimize sales strategies, focus on high-performing products, and improve customer targeting. Future improvements can include deeper trend analysis and predictive modeling for better decision-making. 🚀📊
+
+## Dashboard
+<img width="579" alt="Screenshot_20250319_104138" src="https://github.com/user-attachments/assets/9bc80395-7117-45ec-9b53-0f50f535eae8" />
+
