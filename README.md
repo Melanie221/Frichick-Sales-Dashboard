@@ -18,7 +18,7 @@ This project analyzes sales performance using an interactive dashboard with look
 
 ## Dashboard Creation Process in Looker Studio
 - Connect Data Source – Import sales data from Google Sheets, Excel, or a database into Looker Studio.
-- Create Data Relationships – Ensure correct linking between sales, customers, and product data (if using multiple tables).
+- Create Data Relationships – Ensure correct linking between sales, customers, and product data
 - Build Sales KPIs – Add key metrics such as total sales, sales target, and customer satisfaction using scorecards.
 - Design Regional Sales Map – Use a geo-map visualization to display sales distribution across different regions.
 - Create Trend Analysis Chart – Add a bar/line chart to visualize monthly or quarterly sales performance.
@@ -28,7 +28,7 @@ This project analyzes sales performance using an interactive dashboard with look
 - Format & Optimize Dashboard – Adjust colors, fonts, and layout for clarity and professional presentation.
 - Publish & Share – Finalize the dashboard, generate a shareable link, and ensure access for stakeholders.
 
-- - Dashboard Interaction  <a href="https://github.com/Melanie221/Frichick-Sales-Dashboard/blob/main/Screenshot_20250319_104138.png">View Dashboard</a>
+- Dashboard Interaction  <a href="https://github.com/Melanie221/Frichick-Sales-Dashboard/blob/main/Screenshot_20250319_104138.png">View Dashboard</a>
 
 ## Project Insights
 - Sales Performance: Total sales reached 520,627,500, with a target of 800,000,000.
